@@ -1,6 +1,8 @@
 # Pokémon Red and Blue [![Build Status][ci-badge]][ci]
 
-This is a disassembly of Pokémon Red and Blue.
+This is Pret's disassembly of Pokémon Red and Blue. I made this fork to get reaccustomed to using Github by doing something simple; updating Pokemon and move stats to their modern equivalents where applicable.
+
+Currently, no new types have been added.
 
 It builds the following ROMs:
 
