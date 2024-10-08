@@ -2,7 +2,9 @@
 
 This is Pret's disassembly of Pokémon Red and Blue. I made this fork to get reaccustomed to using Github by doing something simple; updating Pokemon and move stats to their modern equivalents where applicable.
 
-Currently, no new types have been added.
+Additionally, this fork is intended to serve as a quick way to update this data for other projects that may want it.
+
+No new types, moves or move effects have been added.
 
 It builds the following ROMs:
 
